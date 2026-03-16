@@ -1,0 +1,21 @@
+{
+  "name": "tgbot-lib",
+  "version": "1.0.3",
+  "description": "TelegramBotAPI generated lib",
+  "homepage": "https://github.com/Z1mcot/tgbot-lib",
+  "license": "MIT",
+  "dependencies": [
+    "libcoro",
+    "nlohmann-json",
+    "openssl",
+    "cpp-httplib",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
