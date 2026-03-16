@@ -5,10 +5,10 @@
   "homepage": "https://github.com/Z1mcot/tgbot-lib",
   "license": "MIT",
   "dependencies": [
+    "cpp-httplib",
     "libcoro",
     "nlohmann-json",
     "openssl",
-    "cpp-httplib",
     {
       "name": "vcpkg-cmake",
       "host": true
