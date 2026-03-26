@@ -2,9 +2,9 @@ vcpkg_check_linkage(ONLY_DYNAMIC_LIBRARY)
 
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
-    REPO Z1mcot/tgbot-lib 
-    REF v1.0.4
-    SHA512 ae36219f7ebc4b0edc56575640109f48dc7b2c166c0e22c2b14c7bfe387b2fb1f18a78df6f60ae8965b3d290bb51f388e028924b0c0da3cd736f5209bc4f7db5 
+    REPO Z1mcot/tgbot-lib
+    REF v1.0.5
+    SHA512 d1d4f937f313438898bd56eaac288f84530ce72d122717bea5444123e50b60e0f2aec0febf5c5814c17ff1df0d7569499f0cc449bbdb4ee7ed84bf43b1e4f614
     HEAD_REF main
 )
 
